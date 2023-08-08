@@ -1,6 +1,6 @@
 # 👋🏻 Hey, I'm Atzin Escandia! 
 
-![atzinescandia](https://avatars.githubusercontent.com/u/77510953?v=4)
+![logo](https://github.com/atzin-escandia/atzin-escandia/assets/77510953/68f8a1cf-cfa4-4e27-bf9d-678b542e5d39)
 
 I am a passionate Frontend Engineer based in the beautiful city of Madrid. With 5 years of experience in the web design and development field, I bring creativity, innovation, and dedication to every project I work on.
 
@@ -12,9 +12,5 @@ I have a deep love for programming and a keen eye for detail, which allows me to
 I'm always open to new opportunities and collaborations. If you have an exciting project or want to chat about web development, feel free to reach out to me!
 
  # 🎮 www.atzinescandia.com
-
-
-
-
 
 Looking forward to creating amazing things together! ✌🏻
