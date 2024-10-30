@@ -1,14 +1,10 @@
-# 👋🏻 Hey, I'm Atzin Escandia! 
+# Heya✌🏻 Meet Atzin Escandia Founder at the Plum Up  🚀 Your designer, developer & website-fanatic. ✨
 
-I am a passionate Frontend Engineer based in the beautiful city of Madrid. With 5 years of experience in the web design and development field, I bring creativity, innovation, and dedication to every project I work on.
-
-## 🚀 What I Do 
-A frontend Engineer based in Madrid, in love with programming and fitness. 🤸🏻‍♀️
-I have a deep love for programming and a keen eye for detail, which allows me to create stunning and user-friendly web experiences. My goal is to turn your business ideas into reality by providing high-quality and tailor-made solutions.
+Hey there! I'm a web designer, developer, and total coffee lover. At The Plum Up, my mission is simple: to create beautiful, functional websites that capture the heart and soul of every brand I work with.
 
 ## 📱 Let's Connect
 I'm always open to new opportunities and collaborations. If you have an exciting project or want to chat about web development, feel free to reach out to me!
 
- # 🎮 www.atzinescandia.com
+ # 🎮 www.theplumup.com
 
 Looking forward to creating amazing things together! ✌🏻
