@@ -5,6 +5,6 @@ Hey there! I'm a web designer, developer, and total coffee lover. At The Plum Up
 ## 📱 Let's Connect
 I'm always open to new opportunities and collaborations. If you have an exciting project or want to chat about web development, feel free to reach out to me!
 
- # 🎮 www.theplumup.com
+ # 🎮 theplumup.com
 
 Looking forward to creating amazing things together! ✌🏻
