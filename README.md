@@ -1,4 +1,4 @@
-# ✷ Meet Atzin Escandia ✷
+# ✷ Meet Atzin Escandia Dev ✷
 
 ✷Software Engineer & Founder @ThePlumUp ✷ Your Software Developer & Fitness Girl 🎧
 
