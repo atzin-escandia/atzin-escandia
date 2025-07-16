@@ -1,6 +1,6 @@
 # ✷ Meet Atzin Escandia Your Creative Software Developer ✷
 
-🫧 [AtzinEscandia.dev!](https://atzinescandia.dev) 
+# 🫧 [https://atzinescandia.dev](https://atzinescandia.dev) 
 
 ✷ Creative Software Developer(+8y)
 ✿ Coding is my ♡ language
