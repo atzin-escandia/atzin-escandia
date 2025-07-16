@@ -1,11 +1,8 @@
-# ✷ Meet Atzin Escandia Dev ✷
+# ✷ Meet Atzin Escandia Your Creative Software Developer ✷
 
-✷ Software Engineer & Founder @ThePlumUp ✷ Your Creative Developer & Fitness Girl 🎧
+🫧 [AtzinEscandia.dev!](https://atzinescandia.dev) 
 
-## 📱 Let's Connect
-
-🍓 [AtzinEscandia.dev!](https://atzinescandia.dev) ✷ Creating Webs & Apps for Creative Humans✨🍓
-
-✷ VSCode Theme, Devfolio or a Cool Project? Dm me! ✷
-
-Looking forward to creating amazing things together! ✌🏻
+✷ Creative Software Developer(+8y)
+✿ Coding is my ♡ language
+☻ For aesthetic animations ➧ info@atzinescandia.dev
+★ Inspo for devs & digital creatives⤵
