@@ -1,8 +1,10 @@
-# ✷ Meet Atzin Escandia Your Creative Software Developer ✷
+# Meet Atzin Escandia Your Creative Software Engineer!
 
 # 🫧 [www.atzinescandia.dev](https://atzinescandia.dev) 
 
-✷ Creative Software Developer(+8y)
+✷ Software Engineer
 ✿ Coding is my ♡ language
 ☻ For aesthetic animations ➧ info@atzinescandia.dev
-★ Inspo for devs & digital creatives⤵
+★ The premium developer portfolio ⤵
+
+[Neon Developer Portfolio]([https://atzinescandia.dev](https://neon-developer-portfolio.vercel.app/)) 
