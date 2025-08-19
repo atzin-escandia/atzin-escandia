@@ -7,4 +7,4 @@
 ☻ For aesthetic animations ➧ info@atzinescandia.dev
 ★ The premium developer portfolio ⤵
 
-[Neon Developer Portfolio]([https://atzinescandia.dev](https://neon-developer-portfolio.vercel.app/)) 
+[Neon Developer Portfolio](https://neon-developer-portfolio.vercel.app/)
